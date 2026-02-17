@@ -3,6 +3,7 @@ import java.util.*;
 
 class X_of_a_Kind_in_a_Deck_of_Cards_914 {
     public boolean hasGroupsSizeX(int[] deck) {
+        // just adding this
         HashMap<Integer, Integer> map = new HashMap<>();
 
         for (int card : deck) {
