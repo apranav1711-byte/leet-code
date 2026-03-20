@@ -14,7 +14,7 @@ class Solution {
                 break;
             }
         }
-        return result * 10;// nothing
+        return result * 10;
 
     }
 }
